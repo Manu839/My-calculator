@@ -1,3 +1,5 @@
+![Screenshot 2023-06-26 222621](https://github.com/Manu839/My-calculator/assets/124304448/5fc7467c-a5c1-48d8-870d-3643f527fb1a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
